@@ -518,4 +518,4 @@ components:
           scopes:
             read: Read only access
             write: Read Write access
-            admin: ADmin access
+            admin: Admin access
